@@ -1,3 +1,5 @@
+## Trabalho feito por: Vinícius Fernandes, Pedro Enrico, Pedro Moura e Larissa Beatriz
+
 contatos = [
     {"nome": "Pedro", "telefone": "99999-9999", "email": "pedro@ex.com"}
 ]
@@ -62,3 +64,4 @@ while True:
         print("Saindo..."); break
     else:
         print("Opção inválida.")
+
